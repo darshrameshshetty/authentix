@@ -1,14 +1,12 @@
 import { Shield, Code, Palette, Database, Link as LinkIcon } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
-import sahilImg from '@/assets/team-sahil.jpeg';
 import sebinImg from '@/assets/team-sebin.jpeg';
 import rushilImg from '@/assets/team-rushil.jpeg';
 import darshImg from '@/assets/team-darsh.jpeg';
 
 const team = [
-  { name: 'Sahil Topale', role: 'Full Stack Developer', desc: 'Architecting the platform from frontend to backend with scalable solutions.', avatar: sahilImg },
+  { name: 'Darsh Shetty', role: 'Full Stack & Blockchain Developer', desc: 'Building the platform across frontend and backend, including smart-contract integration.', avatar: darshImg },
   { name: 'Rushil Raul', role: 'Backend Developer', desc: 'Building robust APIs and database systems for reliable ticket management.', avatar: rushilImg },
-  { name: 'Darsh Shetty', role: 'Blockchain Developer', desc: 'Integrating Web3 technologies and smart contracts for NFT ticketing.', avatar: darshImg },
   { name: 'Sebin Sebastian', role: 'Frontend Developer', desc: 'Crafting beautiful, responsive user interfaces with modern React patterns.', avatar: sebinImg },
 ];
 

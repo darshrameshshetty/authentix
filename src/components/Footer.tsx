@@ -27,7 +27,7 @@ export default function Footer() {
           <div>
             <h4 className="font-display font-semibold mb-2">Connect</h4>
             <p className="text-sm text-muted-foreground mb-3">
-              Developed by <span className="font-medium text-foreground">Sahil Topale &amp; Co.</span>
+              Developed by <span className="font-medium text-foreground">Darsh Shetty &amp; Co.</span>
             </p>
             <Button
               variant="outline"
@@ -40,7 +40,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t mt-6 pt-4 text-center text-xs text-muted-foreground">
-          © {new Date().getFullYear()} Authentix · Developed by Sahil Topale &amp; Co. · All rights reserved.
+          © {new Date().getFullYear()} Authentix · Developed by Darsh Shetty &amp; Co. · All rights reserved.
         </div>
       </div>
     </footer>

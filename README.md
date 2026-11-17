@@ -1,6 +1,6 @@
 # 🎟️ Authentix — Blockchain-Powered Event Ticketing
 
-> **Developed by Sahil Topale & Co.**
+> **Developed by Darsh Shetty & Co.**
 
 Authentix is a full-stack event ticketing platform that combines a traditional database backend with on-chain NFT tickets, secure rotating QR verification, an interactive seat-map booking experience, and an AI assistant.
 
@@ -174,7 +174,7 @@ supabase/
 - Floating button (bottom-right), plus quick-access buttons in the **Navbar** and **Footer**.
 - Powered by Lovable AI Gateway with Gemini, streamed via Server-Sent Events.
 - Maintains conversation history → understands follow-up questions naturally.
-- Knows the platform's features, pricing tiers, booking flow, and that **Authentix is developed by Sahil Topale & Co.**
+- Knows the platform's features, pricing tiers, booking flow, and that **Authentix is developed by Darsh Shetty & Co.**
 
 ---
 
@@ -190,13 +190,12 @@ supabase/
 
 ## 📜 License & Credits
 
-Built with ❤️ by **Sahil Topale & Co.**
+Built with ❤️ by **Darsh Shetty & Co.**
 
 ### 👥 Team
 
-1. **Sahil Topale** — Full Stack Developer
+1. **Darsh Shetty** — Full Stack & Blockchain Developer
 2. **Sebin Sebastian** — Frontend Developer
 3. **Rushil Raul** — Backend Developer
-4. **Darsh Shetty** — Blockchain Developer
 
 Open-source dependencies: React, Vite, Tailwind CSS, shadcn/ui, Supabase, ethers.js, react-markdown.
